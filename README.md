@@ -1,5 +1,4 @@
-# data_professional_survey_project
-PowerBI dashboard project analyzing survey responses of data professionals.  
+  
 # 📊 Data Professional Survey Dashboard
 
 A Power BI dashboard analyzing global survey data from data professionals — exploring demographics, job roles, programming languages, and satisfaction metrics.
@@ -13,6 +12,7 @@ This project visualizes results from a Data Professional Survey to uncover:
 - Average participant age and experience  
 - Satisfaction levels with salary and work-life balance  
 
+### 📈 Dashboard Preview
 --- https://github.com/tionna-jackson/data_professional_survey_project/blob/012109221d6dad02debcde2512d5f1a5dde769f6/Power%20BI-%20Portfolio%20Project.pdf
 
 ## 🧰 Tools Used
