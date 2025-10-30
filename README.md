@@ -52,4 +52,4 @@ Python dominates across roles, and while work-life balance scores moderately wel
 ## 👩🏽‍💻 Author
 **Tionna Jackson**  
 Data Analyst | Skilled in SQL, Excel, and PowerBI | Passionate about turning data into stories.  
-📍 Dallas, TX| 
+📍 Dallas, TX| https://tionnajackson.my.canva.site/copy-of-portfolio-website |
