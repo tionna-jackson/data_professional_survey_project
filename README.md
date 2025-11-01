@@ -13,7 +13,7 @@ This project visualizes results from a Data Professional Survey to uncover:
 - Satisfaction levels with salary and work-life balance  
 
 ### 📈 Dashboard Preview
---- https://github.com/tionna-jackson/data_professional_survey_project/blob/012109221d6dad02debcde2512d5f1a5dde769f6/Power%20BI-%20Portfolio%20Project.pdf
+---https://github.com/tionna-jackson/data_professional_survey_project/blob/55d65cf4c0aecf8a9a69f56a5a43daa94dafe154/Data%20Professionals%20Portfolio%20Project.pdf
 
 ## 🧰 Tools Used
 - **Power BI** – for dashboard design and visual storytelling  
